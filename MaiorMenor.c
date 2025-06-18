@@ -81,7 +81,6 @@ void liberarBaralho(No* topo) {
         free(temp);
     }
 }
-
 int main() {
     srand(time(NULL));
     char jogarNovamente = 's';
