@@ -36,7 +36,7 @@ gcc MaiorMenor.c -o jogo
 
 ## Organização do Código
 
-- **MaiorMenorFinal.c**: Código-fonte principal do jogo.
+- **MaiorMenor.c**: Código-fonte principal do jogo.
   - main() : Função principal com lógica do jogo e repetição por rodada.
   - criarBaralho() : Gera todas as cartas usando lista encadeada.
   - inserirCarta() : removerTopo(): Manipulam as listas de cartas.
