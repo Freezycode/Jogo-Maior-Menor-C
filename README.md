@@ -24,7 +24,7 @@ O jogo é simples:
   - Mão do jogador
   - Pilha de descarte
 - Interface totalmente via terminal (texto).
-- Registro automático da pontuação em um arquivo `placar.txt`.
+- Registro automático da pontuação em um arquivo placar.txt.
 - Leitura e exibição da pontuação anterior no início de cada jogo.
 - Possibilidade de jogar várias rodadas seguidas, de forma interativa.
 
