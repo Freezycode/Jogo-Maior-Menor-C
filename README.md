@@ -11,9 +11,9 @@ Este projeto consiste em um jogo de cartas desenvolvido em linguagem C, como par
 
 O jogo é simples:  
 - O jogador vê uma carta sorteada aleatoriamente do baralho.
-- Em seguida, escolhe se a próxima carta será maior (`x`) ou menor (`y`).
+- Em seguida, escolhe se a próxima carta será maior (x) ou menor (y).
 - O programa sorteia uma nova carta e verifica se a resposta do jogador está correta.
-- Ao final de cada rodada, o jogador decide se deseja jogar novamente (`s` ou `n`).
+- Ao final de cada rodada, o jogador decide se deseja jogar novamente (s ou n).
 
 ## Funcionalidades Implementadas
 
