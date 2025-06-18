@@ -17,8 +17,8 @@ O jogo é simples:
 
 ## Funcionalidades Implementadas
 
-- Estruturas `struct` para representar cartas e listas encadeadas.
-- Enum `Naipe` para definir os quatro naipes possíveis (Ouros, Paus, Copas, Espadas).
+- Estruturas struct para representar cartas e listas encadeadas.
+- Enum Naipe para definir os quatro naipes possíveis (Ouros, Paus, Copas, Espadas).
 - Listas encadeadas para representar:
   - Baralho
   - Mão do jogador
@@ -29,8 +29,8 @@ O jogo é simples:
 - Possibilidade de jogar várias rodadas seguidas, de forma interativa.
 
 ## Como compilar e executar
-Se estiver usando `gcc`:
-'' bash ''
+Se estiver usando gcc :
+bash
 gcc MaiorMenor.c -o jogo
 ./jogo  # ou jogo.exe
 
