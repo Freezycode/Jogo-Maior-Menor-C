@@ -32,7 +32,7 @@ O jogo é simples:
 Se estiver usando gcc :
 bash
 gcc MaiorMenor.c -o jogo
-./jogo  # ou jogo.exe
+./jogo ou jogo.exe
 
 ## Organização do Código
 
